@@ -9,6 +9,7 @@ description: Lecture summary, written by a student. The focus of this class was 
   and then using Kepler?s second law of motion to calculate the planet mass.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/7d4b01e4dde9ff7f72e334cfac2f868d_lecture5.pdf
 file_type: application/pdf
+parent_uid: 0082942d-ecbc-4c75-6085-9cb28feee074
 resourcetype: Document
 title: lecture5.pdf
 uid: 7d4b01e4-dde9-ff7f-72e3-34cfac2f868d

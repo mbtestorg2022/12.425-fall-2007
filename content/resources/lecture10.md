@@ -7,6 +7,7 @@ description: Lecture summary, written by a student. The focus of this lecture is
   data reported in the news.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/9ad7d02927a263a9042730a3a2e4d88b_lecture10.pdf
 file_type: application/pdf
+parent_uid: 0082942d-ecbc-4c75-6085-9cb28feee074
 resourcetype: Document
 title: lecture10.pdf
 uid: 9ad7d029-27a2-63a9-0427-30a3a2e4d88b

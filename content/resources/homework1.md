@@ -7,6 +7,7 @@ description: Problem set on the time taken by a spacecraft to get to the nearest
   inclination for GJ 436.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/391b3fa5594bb6b6d31d6a0f7ec8e6af_homework1.pdf
 file_type: application/pdf
+parent_uid: 67186b13-67e2-3217-e9e8-dbc332f94d4f
 resourcetype: Document
 title: homework1.pdf
 uid: 391b3fa5-594b-b6b6-d31d-6a0f7ec8e6af

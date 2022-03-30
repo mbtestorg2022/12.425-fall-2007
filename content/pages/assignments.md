@@ -8,8 +8,8 @@ Weekly problem sets are assigned, and include exercises related to using real da
 
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/homework1))
 
-*   GJ 436 Data Set ([TXT](/courses/earth-atmospheric-and-planetary-sciences/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/assignments/gj436.txt)) (Data courtesy of Drake Deming.)
-*   HD 209458 Data Set ([TXT](/courses/earth-atmospheric-and-planetary-sciences/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/assignments/hd209458.txt)) (Data courtesy of L. Jeremy Richardson.)
+*   GJ 436 Data Set ({{% resource_link "1b0193c0-02c1-2791-28a3-6792dab0c0a5" "TXT" %}}) (Data courtesy of Drake Deming.)
+*   HD 209458 Data Set ({{% resource_link "83318d0e-2905-f54d-3b27-f170a82ca017" "TXT" %}}) (Data courtesy of L. Jeremy Richardson.)
 
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/homework2))
 

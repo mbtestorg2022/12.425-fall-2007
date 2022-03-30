@@ -8,6 +8,7 @@ description: Lecture summary, written by a student. The focus of this lecture is
   "life" and its components.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/0c87957e87cc18b5d6651f5337065140_lecture18.pdf
 file_type: application/pdf
+parent_uid: 0082942d-ecbc-4c75-6085-9cb28feee074
 resourcetype: Document
 title: lecture18.pdf
 uid: 0c87957e-87cc-18b5-d665-1f5337065140

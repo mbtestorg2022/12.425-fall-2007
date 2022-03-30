@@ -8,6 +8,7 @@ description: Lecture summary, written by a student. The focus of this lecture is
   Earth-twins.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/8a25e0678462e615c224ddc27fbdc254_lecture12.pdf
 file_type: application/pdf
+parent_uid: 0082942d-ecbc-4c75-6085-9cb28feee074
 resourcetype: Document
 title: lecture12.pdf
 uid: 8a25e067-8462-e615-c224-ddc27fbdc254

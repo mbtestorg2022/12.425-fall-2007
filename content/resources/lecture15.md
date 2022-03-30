@@ -7,6 +7,7 @@ description: Lecture summary, written by a student. The focus of this lecture is
   approach to understanding thermal emission spectra.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/c15da53f6cee56b461ff459f38e0a4da_lecture15.pdf
 file_type: application/pdf
+parent_uid: 0082942d-ecbc-4c75-6085-9cb28feee074
 resourcetype: Document
 title: lecture15.pdf
 uid: c15da53f-6cee-56b4-61ff-459f38e0a4da

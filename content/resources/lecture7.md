@@ -6,6 +6,7 @@ description: Lecture summary, written by a student. The focus of this class is t
   planets? interiors, and how to estimate central pressure of planets.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/6bdae4e870e39d6599997778ab41c062_lecture7.pdf
 file_type: application/pdf
+parent_uid: 0082942d-ecbc-4c75-6085-9cb28feee074
 resourcetype: Document
 title: lecture7.pdf
 uid: 6bdae4e8-70e3-9d65-9999-7778ab41c062
